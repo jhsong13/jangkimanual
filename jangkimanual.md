@@ -98,7 +98,7 @@ AI를 상대하는 장기게임
 ### 사진(상)▶[클릭](https://github.com/jhsong13/jangkimanual/blob/master/sang%20pic.PNG "상 사진")
 ### 사진(마)▶[클릭](https://github.com/jhsong13/jangkimanual/blob/master/ma%20pic.PNG "마 사진")
 ### 사진(차)▶[클릭](https://github.com/jhsong13/jangkimanual/blob/master/cha%20pic.PNG "차 사진")
-
+---
 # 6. 사용설명서 작성 중 느낀 OSS버그 및 기능향상 방안  
 1. 무르기 기능
 * 게임을 몇번 해보았는데 실수를 하게 되었을 때, 무르기 기능을 사용할 수 있게끔 구현이 되어있는데, 횟수가 제한이 없어<br> 계속 무르기를 할수 있습니다. 무르기 기능을 제한없이 사용한다면, 게임이 재미없어질 가능성이 있음. 따라서, Count변수를 추가하여 일정 횟수를 넘기면 더이상 무르기를 할수 없도록 횟수를 제한한다면 게임이 더 재미있어질 것입니다.
