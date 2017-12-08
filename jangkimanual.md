@@ -34,7 +34,7 @@ AI를 상대하는 장기게임
     상대편의 왕을 공격하여 그를 잡음으로써 승리하게 되므로 포진을 물샐틈없이 잘 하여야 된다.
 
 # 3. 실행방법
-    1.https://github.com/jhsong13/jangkimanual/blob/master/jangkimanual.md URL에 접속한다.
+    1. [github](https://github.com/jhsong13/jangkimanual/blob/master/jangkimanual.md "github") URL에 접속한다.
     2. 'jangkiProject' 앞축파일을 다운로드 받은후 압축을 풀어준다.
     3. 이후, Jangki.vcxproj 파일형식을 Visual studio에서 불러오기 한다.
     4. .cpp 형식의 파일이 소스파일에 추가된것을 확인한다.
